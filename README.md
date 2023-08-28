@@ -1,4 +1,3 @@
-@@ -1,9 +1 @@
 - 👋 Hi, I’m @emilytopete
 - 👀 I’m interested in computer science, 
 - 🌱 I’m currently learning how to create an Android app and website
